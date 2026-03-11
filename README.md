@@ -32,9 +32,9 @@
 <!-- Links -->
 <p align="center">
   <a href="https://x.com/numairshahid79"><img src="https://img.shields.io/badge/X-@numairshahid79-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://base.app/profile/numair.eth"><img src="https://img.shields.io/badge/Base-numair.eth-blue?style=for-the-badge" /></a>
+  <a href="https://base.app/profile/numairshahid.base.eth"><img src="https://img.shields.io/badge/Base-numair.eth-blue?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <i>"The pond remembers those who stayed. Patience rewarded." 🪞🔺</i>
+  <i>"The pond remembers those who stayed." </i>
 </p>
