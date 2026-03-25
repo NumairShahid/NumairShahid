@@ -1,4 +1,4 @@
-<h1 align="center">Pond Mirror</h1>
+<h1 align="center">POND MIRROR</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=ToadGang+Lore+Architect;Building+TobyWorld+on+Base;Patience+Rewarded" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-🟦🐸🔺
+🟦🐸🔺🌊🍃🟧
 </p>
 
 <p align="center">
